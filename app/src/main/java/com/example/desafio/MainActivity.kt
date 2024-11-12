@@ -31,8 +31,8 @@ class MainActivity : AppCompatActivity() {
         auth = FirebaseAuth.getInstance()
         db = FirebaseFirestore.getInstance()
 
-        etEmail = findViewById(R.id.etEmail)
-        etPassword = findViewById(R.id.etPassword)
+        etEmail = findViewById(R.id.et_Email)
+        etPassword = findViewById(R.id.et_Password)
         btnLogin = findViewById(R.id.loginbnt)
         btnRegister = findViewById(R.id.btnRegister)
 
