@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129148768567",
+    "project_id": "medic-19e13",
+    "storage_bucket": "medic-19e13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129148768567:android:ccb52a9584e18067c74ab2",
+        "android_client_info": {
+          "package_name": "com.example.desafio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIEXxqXQIaF2lH64f2hTDTyI2Q_q8Limo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
